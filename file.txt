@@ -1,0 +1,4 @@
+FILE REWRITE 
+   OLD CONTENT: Hello From NodeJS 
+   NEW CONTENT: lorem ipsum
+   добавлено в конец файла
